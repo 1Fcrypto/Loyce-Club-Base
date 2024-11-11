@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoyceClubBase": {
+      "commandName": "Project",
+      "commandLineArgs": "base.tsv"
+    }
+  }
+}
